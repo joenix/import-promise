@@ -1,0 +1,20 @@
+{
+  "name": "import-promise",
+  "version": "1.0.3",
+  "description": "",
+  "main": "dist/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "promise"
+  ],
+  "author": "joenix",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.4",
+    "babel-preset-env": "^1.6.1",
+    "webpack": "^3.11.0"
+  }
+}
